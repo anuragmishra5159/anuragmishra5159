@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">1st Year BTech CSE & Design Student from India</h3>
+<h3 align="center">BTech CSE & Design Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragmishra5159&label=Profile%20views&color=0e75b6&style=flat" alt="anuragmishra5159" /> </p>
