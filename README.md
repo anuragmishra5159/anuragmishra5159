@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">BTech CSE & Design Student | Web & ML Enthusiast</h3>
+<h3 align="center">BTech CSE & Design Student | Full-Stack, DSA & ML Enthusiast</h3>
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif"/>
 
@@ -12,18 +12,18 @@
 ### 👨‍💻 About Me  
 
 - 🎓 BTech **Computer Science & Design** student from India  
-- 💡 Interested in **Web Development, Machine Learning & UI-focused systems**  
-- 🧠 Believe in learning through **hands-on projects and collaboration**  
-- 🤝 Enjoy hackathons and team-based problem solving  
-- 🚀 Curious about how **AI & intelligent systems** shape digital experiences  
+- 💡 Interested in **Full-Stack Web Development, Data Structures & Machine Learning**  
+- 🧠 Strong focus on **problem-solving, system thinking, and clean code**  
+- 🤝 Enjoy hackathons, team collaboration, and building real-world projects  
+- 🚀 Curious about how **AI-powered systems** integrate with scalable web apps  
 
 ---
 
 ### 🌱 Currently Learning  
 
-- **C & C++ (DSA fundamentals)**  
-- **Frontend Development** – HTML, CSS, JavaScript  
-- **Machine Learning basics** and real-world integration with web apps  
+- **Data Structures & Algorithms (C/C++)**  
+- **Full-Stack Web Development** (Frontend + Backend concepts)  
+- **Machine Learning fundamentals** with practical applications  
 
 ---
 
@@ -91,4 +91,4 @@ I enjoy **Sci-Fi 🚀🛰 movies** and exploring futuristic technology ideas.
 
 ---
 
-⭐ *Always learning, always building, and open to collaboration.*
+⭐ *Building full-stack systems, strengthening DSA, and exploring ML — one project at a time.*
