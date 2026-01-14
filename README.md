@@ -44,9 +44,10 @@ I care about **clean code, good UI, and understanding how systems work** — not
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragmishra5159&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra5159&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragmishra5159&show_icons=true&theme=tokyonight&hide_border=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmishra5159&layout=compact&theme=tokyonight&hide_border=true" height="155" />
 </p>
+
 
 ---
 
