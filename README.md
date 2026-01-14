@@ -10,15 +10,19 @@
 
 ## 👋 About Me
 
+<img align="right" width="280" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" />
+
 I’m a **Computer Science & Design undergraduate** who enjoys building **end-to-end web applications**, solving **DSA problems in C++**, and gradually exploring **AI & Data Science**.
 
-I care about **clean code, good UI, and understanding how systems work**, not just making things “run”.
+I care about **clean code, good UI, and understanding how systems work** — not just making things “run”.
 
 - 💻 Full-stack development with **React, Node.js, Express**
 - 🗄 Comfortable with **SQL & NoSQL databases**
 - 🧠 Strong focus on **DSA in C++**
-- 🤖 Learning **AI/ML fundamentals**
+- 🤖 Learning **AI / ML fundamentals**
 - 🎨 Background interest in **graphic & UI design**
+
+<br clear="right"/>
 
 ---
 
