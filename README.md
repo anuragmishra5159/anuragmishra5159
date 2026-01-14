@@ -3,10 +3,10 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
+    font=JetBrains+Mono
     &size=22
-    &pause=1000
-    &color=0E75B6
+    &pause=900
+    &color=38BDF8
     &center=true
     &vCenter=true
     &width=750
@@ -15,92 +15,72 @@
     SQL+%26+NoSQL+Databases;
     DSA+in+C%2B%2B;
     Data+Science+%26+AI%2FML+Enthusiast;
-    Graphic+Designer" 
+    Graphic+Designer"
     alt="Typing SVG"
   />
 </p>
 
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif"/>
+
+---
+
+### 👨‍💻 About Me
+I’m a **Computer Science & Design undergraduate** who enjoys building **full-stack web apps**, solving **DSA problems in C++**, and exploring **AI & Data Science**.  
+I also have a strong interest in **design**, which helps me build better UIs.
+
+- 🚀 Full-Stack Developer (React, Node, Express)
+- 🗄 SQL & NoSQL Databases
+- 🧠 DSA in C++
+- 🤖 Data Science & AI/ML (learning)
+- 🎨 Graphic Designer
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragmishra5159&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragmishra5159&layout=compact&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragmishra5159&hide_border=true"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/anurag-mishra-011b2b328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
   </a>
   <a href="mailto:anuragmishra8835@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30"/>
   </a>
   <a href="https://leetcode.com/u/imU9pwn6Xg/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30"/>
   </a>
   <a href="https://www.codechef.com/users/anurag_5159" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-
-I’m a **Computer Science & Design undergraduate** focused on building scalable **full-stack web applications** and strengthening my **problem-solving skills** through DSA.
-
-- 🎓 B.Tech in **Computer Science & Design**  
-- 💻 Full-Stack Developer (**React, JavaScript, Node.js, Express**)  
-- 🗄 Experienced with **SQL & NoSQL databases**  
-- 🧠 Strong foundation in **Data Structures & Algorithms (C++)**  
-- 🤖 Exploring **Data Science & AI/ML** fundamentals  
-- 🎨 Also passionate about **Graphic Design**
-
----
-
-## 🌱 Currently Working On  
-
-- 📌 Advanced **DSA problem solving in C++**  
-- 🌐 Building **end-to-end full-stack projects**  
-- 🤖 Learning **Data Science, ML basics & applied AI**  
-- 🎨 Improving **design skills for better UI/UX**
-
----
-
-## 🛠 Tech Stack  
-
-### 🔹 Languages  
-- C, C++  
-- JavaScript  
-- HTML, CSS  
-
-### 🔹 Frameworks & Libraries  
-- React  
-- Node.js  
-- Express.js  
-
-### 🔹 Databases  
-- SQL (MySQL / PostgreSQL)  
-- NoSQL (MongoDB)
-
-### 🔹 Tools  
-- Git & GitHub  
-- VS Code  
-- LeetCode, CodeChef  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragmishra5159&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragmishra5159&layout=compact" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragmishra5159"/>
-</p>
-
----
-
-## ⚡ Beyond Code  
-
-- 🎬 Sci-Fi & futuristic tech enthusiast  
-- 🛰 Curious about how design + AI shape products  
-- 📚 Believe in **learning by building real projects**
-
----
-
-⭐ **Actively building full-stack systems, mastering DSA, and exploring AI — one project at a time.**
+⭐ *Building, breaking, and learning — one project at a time.*
