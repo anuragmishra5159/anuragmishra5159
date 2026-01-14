@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express;DSA+in+C%2B%2B;Exploring+AI+%26+Data+Science;Design-Minded+Developer" />
 </p>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif"/>
-
----
-
 ## 👋 About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" />
@@ -24,7 +20,6 @@ I care about **clean code, good UI, and understanding how systems work** — not
 
 <br clear="right"/>
 
----
 
 ## 🛠 Tech Stack
 
