@@ -5,8 +5,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express;DSA+in+C%2B%2B;Exploring+AI+%26+Data+Science;Design-Minded+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;size=22&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-Stack%20Developer;React%20%7C%20Node%20%7C%20Express;DSA%20in%20C%2B%2B;Exploring%20AI%20%26%20Data%20Science;Design-Minded%20Developer" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="120" style="margin-top: 10px; margin-bottom: 10px;"/>
 </div>
 
 <div align="center">
@@ -21,13 +25,13 @@
 
 ---
 
-## Who Am I
+## 👨‍💻 Who Am I
 
 ```ts
 const anurag = {
   education: "B.Tech — Computer Science & Design",
   currentlyBuilding: ["full-stack apps", "open source civic tools"],
-  learning: ["AI/ML fundamentals", "system design"],
+  learning: ["AI/ML fundamentals", "system design", "GCP", "Automation-n8n'],
   askMeAbout: ["React", "Node.js", "DSA", "UI/UX thinking"],
   funFact: "I treat good UI like good code — both should be clean and intentional",
 };
@@ -71,14 +75,13 @@ const anurag = {
 
 <br/>
 
-A typing practice game built for developers. Real code snippets, three game modes, analytics and Google auth — not your average monkeytype clone.
+> A typing practice game built for developers. Real code snippets, three game modes, analytics and Google auth — not your average monkeytype clone.
 
-- **Practice / Timed / Debug** modes with difficulty levels (Easy → Hard)
-- Real-time WPM + accuracy with Recharts visualizations
-- S+ to F grading system with session history per user (Firebase UID keyed)
-- Deployed on Vercel
+- **Game Modes:** Practice, Timed, and Debug modes with difficulty levels (Easy → Hard).
+- **Analytics:** Real-time WPM + accuracy tracking with Recharts visualizations.
+- **Progression:** S+ to F grading system with session history mapping per user (Firebase).
 
-`React 19` `Vite` `Tailwind CSS v4` `Firebase Auth` `Recharts`
+*Built with:* `React 19` `Vite` `Tailwind CSS v4` `Firebase Auth` `Recharts`
 
 </details>
 
@@ -89,14 +92,13 @@ A typing practice game built for developers. Real code snippets, three game mode
 
 <br/>
 
-Production-grade REST API — the kind of backend you'd actually put in a portfolio. JWT auth, Cloudinary video pipeline, full social feature set.
+> Production-grade REST API — the kind of backend you'd actually put in a portfolio. Features a complete video pipeline and full social interactions.
 
-- JWT auth with refresh tokens + secure cookies + bcrypt
-- Video upload: Multer temp → Cloudinary (video + thumbnail)
-- Resources: comments, likes, playlists, subscriptions, watch history, tweets
-- Channel dashboard: subscriber count, total views, like metrics
+- **Auth & Security:** JWT authentication with refresh tokens, secure cookies, and bcrypt.
+- **Media Pipeline:** Multer temp storage to Cloudinary uploads (video + thumbnail).
+- **Core Features:** Comments, likes, playlists, subscriptions, watch history, tweets, and a robust channel dashboard.
 
-`Node.js 20` `Express 4` `MongoDB` `Mongoose` `Cloudinary` `JWT`
+*Built with:* `Node.js 20` `Express 4` `MongoDB` `Mongoose` `Cloudinary` `JWT`
 
 </details>
 
@@ -107,26 +109,26 @@ Production-grade REST API — the kind of backend you'd actually put in a portfo
 
 <br/>
 
-Visualizes codebases as interactive dependency maps. Built for developers who want to understand a project's structure without reading every file.
+> Visualizes codebases as interactive dependency maps. Built for developers who want to understand a project's architecture without reading every single file.
 
-`React` `JavaScript` `Vercel`
+*Built with:* `React` `JavaScript` `Vercel`
 
 </details>
 
 ---
 
 <details>
-<summary><b>🛡️ Guardian AI</b> — personal safety companion &nbsp;·&nbsp; <a href="https://guardian-ai-one.vercel.app/">Live ↗</a> &nbsp;·&nbsp; 🏆 VibeState'25 Finalist · Top 11</summary>
+<summary><b>🛡️ Guardian AI</b> — personal safety companion &nbsp;·&nbsp; <a href="https://guardian-ai-one.vercel.app/">Live ↗</a> &nbsp;·&nbsp; 🏆 <i>VibeState'25 Finalist</i></summary>
 
 <br/>
 
-Built in 36 hours at VibeState'25 hackathon with Team TechOps. AI-powered safety app with on-device threat detection — no cloud, no privacy tradeoffs.
+> Built in 36 hours at VibeState'25 hackathon with Team TechOps. AI-powered safety app with on-device threat detection — no cloud, no privacy tradeoffs.
 
-- One-tap SOS with real-time GPS sharing to emergency contacts
-- On-device AI threat assessment (privacy-first, offline capable)
-- Gesture triggers — shake or volume button activates silent alert
+- **Emergency Alert:** One-tap SOS with real-time GPS sharing to emergency contacts.
+- **AI Assessment:** On-device threat assessment (offline capable & privacy-first).
+- **Accessibility:** Gesture triggers like shaking or volume buttons for silent, discreet alerts.
 
-`AI/ML` `JavaScript` `Mobile`
+*Built with:* `AI/ML` `JavaScript` `Mobile`
 
 </details>
 
@@ -134,17 +136,23 @@ Built in 36 hours at VibeState'25 hackathon with Team TechOps. AI-powered safety
 
 <details>
 <summary><b>🏥 MedsInsight</b> — medical info platform &nbsp;·&nbsp; <a href="https://github.com/ananyascodes/MedsInsight">Repo ↗</a> &nbsp;·&nbsp; <i>collab</i></summary>
+
 <br/>
 
-`React` `Node.js` `JavaScript`
+> A collaborative platform for accessing, managing, and exploring medical information safely.
+
+*Built with:* `React` `Node.js` `JavaScript`
 
 </details>
 
 <details>
 <summary><b>🎓 SkillConnect</b> — peer-to-peer learning platform &nbsp;·&nbsp; <a href="https://github.com/Ashishgargnotgonnaloose2248/SkillConnect">Repo ↗</a> &nbsp;·&nbsp; <i>collab</i></summary>
+
 <br/>
 
-`TypeScript` `React` `Node.js`
+> An educational networking platform designed to connect students with complementary skills for peer-to-peer learning.
+
+*Built with:* `TypeScript` `React` `Node.js`
 
 </details>
 
@@ -186,38 +194,21 @@ Member of **[ChronalLabs](https://github.com/ChronalLabs)** — an open-source o
   <img src="https://raw.githubusercontent.com/anuragmishra5159/anuragmishra5159/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
 
-<details>
-<summary>How to enable the snake animation</summary>
+---
 
-Create `.github/workflows/snake.yml` in your profile repo:
+## 📫 Let's Connect
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+<div align="center">
+  Feel free to reach out if you want to collaborate on a project, talk about UI/UX, discuss open-source, or just say hi! <br/>
+  <br/>
+  <a href="mailto:anuragmishra8835@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/anurag-mishra-011b2b328/">
+    <img src="https://img.shields.io/badge/Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
