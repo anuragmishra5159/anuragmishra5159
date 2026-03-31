@@ -25,15 +25,31 @@
 
 ---
 
-## 👨‍💻 Who Am I
+## Who Am I
 
 ```ts
-const anurag = {
+interface Profile {
+  education: string;
+  currentlyBuilding: string[];
+  learning: string[];
+  askMeAbout: string[];
+  funFact: string;
+}
+
+const anurag: Profile = {
   education: "B.Tech — Computer Science & Design",
-  currentlyBuilding: ["full-stack apps", "open source civic tools"],
-  learning: ["AI/ML fundamentals", "system design", "GCP", "Automation-n8n'],
-  askMeAbout: ["React", "Node.js", "DSA", "UI/UX thinking"],
-  funFact: "I treat good UI like good code — both should be clean and intentional",
+  currentlyBuilding: [
+    "Full-stack Web Applications", 
+    "Open Source Civic Tools"
+  ],
+  learning: [
+    "AI/ML Fundamentals", 
+    "System Design", 
+    "GCP", 
+    "n8n Automation"
+  ],
+  askMeAbout: ["React", "Node.js", "DSA", "UI/UX Thinking"],
+  funFact: "I treat good UI like good code — both should be clean and intentional"
 };
 ```
 
