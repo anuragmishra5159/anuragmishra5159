@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="120" style="margin-top: 10px; margin-bottom: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="180" style="margin-top: 10px; margin-bottom: 10px;"/>
 </div>
 
 <div align="center">
