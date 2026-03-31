@@ -28,13 +28,6 @@
 ## Who Am I
 
 ```ts
-interface Profile {
-  education: string;
-  currentlyBuilding: string[];
-  learning: string[];
-  askMeAbout: string[];
-  funFact: string;
-}
 
 const anurag: Profile = {
   education: "B.Tech — Computer Science & Design",
